@@ -1,0 +1,45 @@
+__________        __                        __    
+\______   \ _____/  |_____________    ____ |  | __
+ |     ___// __ \   __\_  __ \__  \ _/ ___\|  |/ /
+ |    |   \  ___/|  |  |  | \// __ \\  \___|    < 
+ |____|    \___  >__|  |__|  (____  /\___  >__|_ \
+               \/                 \/     \/     \/
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Lesser General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+@author Josewowgame
+
+
+
+[Setting:config.json]:
+ network_name: (Enter the general name used for your server network)
+ web_ip: (Type the URL where this application will be hosted or another URL related to the server)
+ web_port: (It is important to be careful with this part, if you do not have any other server running on the default port (80) you can leave it that way. If you have a web server running on that port, change it either)
+ server_ip: (Enter the IP of the server you want to track)
+ server_port: (Enter the PORT of your server to track)
+ discord_enable: [true/false] (If you choose True every 40 minutes you will be notified to a discord channel (webhook) about server statistics. If you don't want this just put FALSE)
+ discord_webhook: (Enter in this option the WEBHOOK that discord orthoped when creating it)
+ img_card_1, img_card_2, img_card_3, img_card_error: (If you want to customize the page to your style, just change the links or leave the default)
+
+
+
+ [Setting:staff.json]:
+ The method of adding staff is easy, just follow the appropriate format to do it. This option is infinite.
+ By default the file already contains two filled formats, you can modify and add more
+
+ FORMAT: 
+
+     "NAME": {
+        "name": "NAME",
+        "img": "IMAGE LINK",
+        "rol": "RANK",
+        "description": "DESCRIPTION",
+        "contact": "SOCIAL PROFILE (TWITTER/FACEBOOCK/ETC)"
+    },
+
+[Commands]:
+stop (Stop application)
+kill (Stop application)

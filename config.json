@@ -1,0 +1,13 @@
+{
+    "network_name": "Mineplex Network",
+    "web_ip": "https://mineplex.com",
+    "web_port": 80,
+    "server_ip": "pe.mineplex.com",
+    "server_port": 19132,
+    "discord_enable": true,
+    "discord_webhook": "https://discordapp.com/api/webhooks/657780366496497674/AGi2yjorxulid2CwE7O8cNeFytWqDFcPf-HwlqWqh_JjWR_Zgron0-1OYfDUu4fVe4BH",
+    "img_card_1": "https://i.ibb.co/XSWf6QC/offline.png",
+    "img_card_2": "https://i.ibb.co/vQg67Cz/online.png",
+    "img_card_3": "https://i.ibb.co/wzhLJmC/full.png",
+    "img_card_error": "https://i.ibb.co/XsfBGjZ/error.png"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "petrack",
+  "version": "1.0.0",
+  "description": "Track information for MCBE servers",
+  "main": "track.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josewowgame2888/PeTrack.git"
+  },
+  "author": "Josewowgame2888",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josewowgame2888/PeTrack/issues"
+  },
+  "homepage": "https://github.com/Josewowgame2888/PeTrack#readme",
+  "dependencies": {
+    "bytebuffer": "^5.0.1",
+    "dgram": "^1.0.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "node-datetime": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "portfinder": "^1.0.25"
+  }
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title> [NETWORK_NAME_JSON] </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
+  
+[CSS_STYLE_JSON]
+
+</head>
+<body class="hold-transition lockscreen">
+<nav class="navbar navbar-expand navbar-dark navbar-dark">
+  <ul class="navbar-nav">
+    <li class="nav-item">
+    <li>
+    <h4 class="nav-link">PeTrack Server</h4>
+    </li>
+      <a class="nav-link" data-widget="pushmenu" href="#"><i class="fas fa-bars"></i></a>
+    </li>
+  </ul>
+</nav>
+  <section class="content-header">
+    <div class="container-fluid">
+      <div class="row mb-2">
+        <div class="col-sm-6">
+        </div>
+      </div>
+    </div>
+  </section>
+<section class="content"></section>
+<div class="container-fluid">
+  <div class="row">
+
+     [HTML_CARDS]
+   
+  </div>
+    <section class="content-header">
+    <div class="container-fluid">
+      <div class="row mb-2">
+        <div class="col-sm-6">
+        </div>
+      </div>
+    </div>
+     </section>
+    <section class="content">
+    <h2>Staff members</h2>
+    </section>
+    <div class="row d-flex align-items-stretch">
+
+         [STAFF_CARDS]
+
+         </div>
+</div>
+</section>
+</body>
+</html>

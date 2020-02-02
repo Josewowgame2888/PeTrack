@@ -1,0 +1,15 @@
+    <div class="col-md-4 col-sm-6 col-12">
+      <div class="info-box bg-gradient-primary">
+      <span class="info-box-icon"><img src=" [IMG] "><i class="far fa-bookmark"></i></span>
+        <div class="info-box-content">
+          <span class="info-box-text">[INFO_1]</span>
+          <span class="info-box-number">[INFO_2]</span>
+          <div class="progress">
+            <div class="progress-bar" style="width: [INFO_3] "></div>
+          </div>
+          <span class="progress-description">
+            [INFO_4]
+          </span>
+        </div>
+      </div>
+    </div>
