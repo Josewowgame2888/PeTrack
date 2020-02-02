@@ -1,5 +1,8 @@
 # PeTrack 
-   MCBE Track Server
+MCBE Track Server
+
+# Dependence
+- NodeJS
 
 # Configuration
 - Read `HandBook.txt` It is a small configuration manual
