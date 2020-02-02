@@ -1,5 +1,5 @@
 # PeTrack 
-MCBE Track Server
+An application that will allow you to manage player traffic easily, providing tools such as (web application, state of discord)
 
 # Dependence
 - NodeJS - https://nodejs.org/en/download/
