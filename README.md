@@ -3,6 +3,7 @@ MCBE Track Server
 
 # Dependence
 - NodeJS
+- Discord WebHook (OPTIONAL) - https://support.discordapp.com/hc/en-us/articles/228383668-Intro-to-Webhooks
 
 # Configuration
 - Read `HandBook.txt` It is a small configuration manual
