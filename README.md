@@ -13,8 +13,7 @@ An application that will allow you to manage player traffic easily, providing to
 - `kill` - Stop the application
 
 # Start
-- Windows - `start.cmd`
-- Linux - `start.sh`
+- node track.js
 
 # Credits
 - Twitter - https://twitter.com/Josewowgame
