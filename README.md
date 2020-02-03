@@ -4,6 +4,7 @@ An application that will allow you to manage player traffic easily, providing to
 # Dependence
 - NodeJS - https://nodejs.org/en/download/
 - Discord WebHook (OPTIONAL) - https://support.discordapp.com/hc/en-us/articles/228383668-Intro-to-Webhooks
+- Linux - tmux
 
 # Configuration
 - Read `HandBook.txt` It is a small configuration manual
@@ -13,7 +14,9 @@ An application that will allow you to manage player traffic easily, providing to
 - `kill` - Stop the application
 
 # Start
-- node track.js
+- Windows - start.cmd
+- Linux - 1 (cd Petrack) 2 (tmux new -s PeTrack) 3 (node track.js) 4 (close window)
+- Linux If you want to access the console - tmux attach -t PeTrack
 
 # Credits
 - Twitter - https://twitter.com/Josewowgame
