@@ -142,7 +142,7 @@ function DiscordSendWebHook()
 
 if(Config.discord_enable === true)
 {
-    setInterval(DiscordSendWebHook,120000);
+    setInterval(DiscordSendWebHook,2400000);
 }
 
 var server = http.createServer(onRequest);
