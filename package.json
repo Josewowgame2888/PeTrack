@@ -22,7 +22,7 @@
     "fs": "0.0.1-security",
     "http": "0.0.0",
     "node-datetime": "^2.1.2",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "portfinder": "^1.0.25"
   }
 }
